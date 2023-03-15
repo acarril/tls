@@ -1,4 +1,4 @@
-# from lib.tui import display_live_events
+from lib.tui import display_live_events
 import argparse
 import sys, os
 
