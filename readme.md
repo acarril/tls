@@ -6,8 +6,8 @@
 
 ## Requirements
 
-This program was developed with Python 3.9.16 (see [.python-version]()).
-Requirements are the following (also listed in [requirements.txt]()):
+This program was developed with Python 3.9.16 (see [.python-version](.python-version)).
+Requirements are the following (also listed in [requirements.txt](requirements.txt)):
 
 - [`requests`](https://requests.readthedocs.io/en/latest/) to fetch results
 - [`beautifulsoup4`](https://beautiful-soup-4.readthedocs.io/en/latest/) for parsing the HTML data
